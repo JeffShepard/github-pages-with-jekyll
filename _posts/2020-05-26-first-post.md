@@ -1,3 +1,7 @@
+---
+title: "My First Blog Post"
+date: 2020-05-26
+---
 This is the first post to my blog.
 I understand this can be edited later.
 So, I can write nonsense like - blah aheiwoiwjerdnvoefoij
